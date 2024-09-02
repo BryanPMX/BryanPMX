@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bryan Perez
+- 👀 Bachelor's in Computer Science at The University of Texas at El Paso
+- 🌱 Knowledge of programming languages such as Phyton, Java, C, Scala, JavaScript, and HTML. 
+- 💞️ I’m looking to collaborate with a team so I can gain experience on React!
+- 📫 How to reach me www.linkedin.com/in/brpmx
