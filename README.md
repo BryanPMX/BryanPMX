@@ -19,7 +19,7 @@
   Minor in Mathematics        
 
 ### Connect with Me
-- 📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/brpmx) to discuss potential collaborations, job opportunities, or if you're looking for someone enthusiastic to join your team.
+- 📫 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/brpmx/]) to discuss potential collaborations, job opportunities, or if you're looking for someone enthusiastic to join your team.
 
 ### Looking Forward
 - 🚀 I am actively seeking internship opportunities where I can contribute and further develop my skills in software development.
