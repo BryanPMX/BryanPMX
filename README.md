@@ -1,113 +1,92 @@
-# 👋 Hi there, I'm Bryan Perez!
+# Bryan Perez
 
-### 🚀 Software Engineer | Computer Science Major | Aspiring AI Specialist | Cloud & Backend Enthusiast
+## About
 
----
-
-### 📍 About Me
-
-I’m a passionate **Computer Science student** at the University of Texas at El Paso, graduating in **December 2025**, with a Minor in Mathematics. My journey bridges rigorous academics, real-world projects, and leadership experience. I thrive in crafting software solutions that combine innovation, precision, and scalability — from intelligent resume analyzers to virtual file systems.
-
-I bring to the table:
-
-✅ Dedication  
-✅ Quick Learning  
-✅ Reliability  
-✅ Critical Thinking  
-✅ Passion for Innovation  
+Polyglot engineer specializing in **Enterprise Java** and **Backend Architecture**. Expert in building scalable systems with **Spring Boot**, **Microservices**, and **Cloud Native** technologies. Proven track record delivering production applications using **Go** and **Java** ecosystems. Currently leading full-stack development at Centro de Apoyo para la Familia A.C. and optimizing AI-generated code at Outlier.ai.
 
 ---
 
-### 💻 Technical Toolbox
+## 🛠️ Technical Expertise
 
-- **Languages:** Golang, Python, Java, C, Scala, Dart, JavaScript, HTML, CSS, SQL, Bash
-- **Frameworks & Libraries:** Spring Boot, Node.js, Flutter, React (in progress), Bootstrap, Chart.js, NumPy, Pandas
-- **AI/ML Tools:** PyTorch, TensorFlow
-- **DevOps & Tools:** Git, GitHub, Docker, Maven, FUSE, UNIX/Linux, Syncfusion PDF
-- **Databases:** MySQL, SQLite
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
----
+### **Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🎓 Academic Highlights
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-- **University of Texas at El Paso — El Paso, Texas**  
-  Bachelor of Science in Computer Science | Minor in Mathematics  
-  _Expected Graduation: December 2025_
-
-- **Relevant Coursework:**  
-  Advanced Object-Oriented Programming, Data Structures, Computer Security, Programming Languages,  
-  Software Construction, Software Design, Operating Systems, Machine Learning, Artificial Intelligence,  
-  Database Systems
-
----
-
-### 🌟 Featured Projects
-
-- 📄 **Smart Resume Analyzer**  
-  Flutter, Dart, SQLite, Syncfusion PDF  
-  → Built a mobile app to parse resumes, score formatting, tone, and keyword relevance, and offer real-time feedback for job seekers.
-
-- ✈ **RT-FDSA: Real-Time Flight Data Systems Analyzer**  
-  JavaScript, Bootstrap, Chart.js  
-  → Designed a telemetry dashboard visualizing real-time aircraft data with animated graphs and a responsive dark-mode UI.
-
-- 🏦 **Bank of Miners**  
-  Java  
-  → Developed a robust terminal-based banking system with OOP principles, supporting customer accounts, transactions, and data logging.
-
-- 💾 **FUSE File System**  
-  C, FUSE  
-  → Engineered a UNIX-like user-space file system with runtime memory allocation, structured I/O, and persistent backups.
-
-- 🌐 **Professional Portfolio Website**  
-  HTML, CSS, JavaScript, Netlify  
-  → Created and deployed a personal web portfolio highlighting technical projects and achievements.
-
-- 🎮 **Tic Tac Toe Game**  
-  Python  
-  → Developed an interactive console game featuring user input handling, game logic, and a basic AI opponent.
+### **Testing & Tools**
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### ⚡ Current Focus
+## 💼 Professional Experience
 
-- 📚 Deepening React.js expertise for full-stack development.
-- 💥 Exploring cloud-native architectures with Docker.
-- 🤖 Expanding AI/ML skill sets using TensorFlow and PyTorch.
-- 🌍 Contributing to open-source projects and cross-functional collaborations.
+### Full Stack Developer
+**Centro de Apoyo para la Familia A.C.** | Ciudad Juarez, Mexico | 2023 - 2025
 
----
+- Engineered local-first case management platform using **Go** (**Gin**, **GORM**) and **PostgreSQL**, implementing clean architecture for secure case intake and analytics
+- Architected production admin portal with **Next.js 14** and **TypeScript**, utilizing custom dependency injection for **RBAC**-aware dashboards
+- Managed **AWS** and **Vercel** deployments with **CI/CD** workflows, optimizing costs through **Docker** containerization
+- Implemented enterprise security with **JWT** authentication, rate-limiting middleware, and authenticated **WebSockets**
 
-### 📬 Connect with Me
+### AI Code Expert
+**Outlier.ai** | Remote | 2024 – Present
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/brpmx)  
-- 📧 perez.bryan24@outlook.com  
-- 🌐 [Portfolio](https://github.com/BryanPMX/Professional_Portfolio)  
-- 📂 [GitHub](https://github.com/BryanPMX)
-
----
-
-### 📌 Featured Repositories
-
-- [Smart Resume Analyzer](https://github.com/BryanPMX/Smart-Resume-Analyzer)  
-- [RT-FDSA — Production-Grade Telemetry System](https://github.com/BryanPMX/RT-FDSA--Production-Grade-Telemetry-System)  
-- [Bank of Miners](https://github.com/BryanPMX/Bank-System-Bank-of-Miners-)  
-- [FUSE File System](https://github.com/BryanPMX/UTEP_CS_Operating_Systems/tree/main/fuse-file-system)  
-- [Professional Portfolio](https://github.com/BryanPMX/Professional_Portfolio)  
-- [Cisco Networking Academy Labs](https://github.com/BryanPMX/Cisco_Networking_Academy)
+- Evaluate and optimize AI-generated code in **Java** and **Python**, focusing on algorithmic efficiency and security standards
+- Author complex solutions using advanced data structures (**Trees**, **Graphs**) with rigorous code review processes
 
 ---
 
-### 💡 Personal Motto
+## 🚀 Featured Projects
 
-> _“Stay curious, stay passionate, and never stop building.”_
+### Bank of Miners
+`Java` `Spring Boot` `React` `Docker` `PostgreSQL` `CI/CD`
+
+Refactored legacy CLI banking system into modern web application. Implemented custom **Binary Search Tree** for **O(log n)** data retrieval and **Write-Through** persistence. Engineered secure banking core using **Java OOP** and **Strategy Design Patterns** for polymorphic account behaviors. Containerized with **Docker** and **Nginx**, automated **JUnit** testing via **GitHub Actions CI/CD**.
+
+### DEM Bravo (Docker Exploit Mapper)
+`Python` `FastAPI` `Neo4j` `SvelteKit` `Docker` `Security`
+
+Architected offline-first cybersecurity platform modeling container attack graphs with asynchronous **Docker SDK** orchestration. Built reactive visualization dashboard with **Cytoscape** for real-time network topology analysis. Implemented **STIG-compliant** database security with custom **Cypher** query sanitization, preventing injection attacks across multi-tool data ingestion pipelines.
+
+### Centro de Apoyo Case Management System
+`Go` `Gin` `GORM` `Next.js` `TypeScript` `PostgreSQL` `AWS` `Docker`
+
+Enterprise case management platform serving social services organization. Developed **Go**-based backend with clean architecture principles, implementing **JWT RBAC**, rate limiting, and real-time **WebSocket** communications. Architected **Next.js 14** admin portal with custom dependency injection container. Managed **AWS** deployments with **CI/CD** pipelines, transitioning to cost-optimized **Docker** environment for production operations.
 
 ---
 
-### 🌈 Fun Facts
+## 📬 Connect
 
-- 🧠 Obsessed with understanding how systems work under the hood.
-- 🚀 Enjoy hacking on side projects that mix AI, cloud, and backend development.
-- 📈 Inspired by open-source communities and knowledge-sharing.
+- **LinkedIn:** [linkedin.com/in/brpmx](https://www.linkedin.com/in/brpmx)
+- **Email:** perez.bryan24@outlook.com
+- **GitHub:** [github.com/BryanPMX](https://github.com/BryanPMX)
+- **Phone:** (915) 887-1622
 
 ---
+
+## 📂 Featured Repositories
+
+- [**Bank of Miners**](https://github.com/BryanPMX/Bank-System-Bank-of-Miners-) - Enterprise banking system with **Spring Boot** microservices
+- [**DEM Bravo**](https://github.com/BryanPMX/DEM-Bravo) - Cybersecurity exploit mapping platform
+- [**Centro de Apoyo Platform**](https://github.com/BryanPMX/centro-apoyo-platform) - Full-stack case management system
+- [**Smart Resume Analyzer**](https://github.com/BryanPMX/Smart-Resume-Analyzer) - AI-powered resume analysis tool
